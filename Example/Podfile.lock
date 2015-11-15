@@ -1,0 +1,14 @@
+PODS:
+  - GitHubAuth (0.1.0)
+
+DEPENDENCIES:
+  - GitHubAuth (from `../`)
+
+EXTERNAL SOURCES:
+  GitHubAuth:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GitHubAuth: 07ca9d5590a6e58afe802477019806bf1fc637b0
+
+COCOAPODS: 0.39.0
