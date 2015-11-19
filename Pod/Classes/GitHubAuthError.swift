@@ -6,8 +6,6 @@
 //
 //
 
-import Foundation
-
 enum GitHubAuthError: Int {
     case Canceled, NoAccessToken
     
