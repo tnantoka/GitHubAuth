@@ -51,7 +51,7 @@ pod "GitHubAuth"
 
 ## Author
 
-tnantoka, tnantoka@bornneet.com
+tnantoka
 
 ## License
 
